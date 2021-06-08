@@ -1,5 +1,5 @@
-document.getElementById('button').addEventListener('click', clickHere)
+document.getElementById('button').addEventListener('click', clickHere)/*makes action occur when button is clicked*/
 
 function clickHere () {
-  alert(document.getElementById('input').value)
+  alert ('Hello World, its me :)')
 }
